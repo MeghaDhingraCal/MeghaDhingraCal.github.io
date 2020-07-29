@@ -11,6 +11,11 @@ Hello, I am Megha Dhingra, and I am currently a junior at `UC Berkeley`, pursuin
 
 
 ### Side Projects
+ - NP Hard Graph Connectivity
+   Implemented and came up with an algorithm to solve a NP-hard graph connectivity problem with networkx python library.
+ - Twitter Tool Kit 
+    Built a webscraper with Python, SQLite, and Beautiful Soup for a chrome extension that scores tweets on political bias and credibility
+ 
 
 ### Endeavors
  - Research Assistant at Citrus Tech Policy Lab
