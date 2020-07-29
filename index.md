@@ -1,6 +1,6 @@
 
 
 
-### Support or Contact
+### Welcome
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Hello, I am Megha Dhingra, and I am currently a student at UC Berkeley, pursuing a major in computer science and a minor in human rights. I am passionate about harnessing the power of technology for social impact. In my free time, I enjoy working on side projects that apply computer science to politics. 
