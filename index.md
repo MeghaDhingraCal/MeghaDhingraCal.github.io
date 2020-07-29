@@ -18,10 +18,7 @@ Hello, I am Megha Dhingra, and I am currently a junior at UC Berkeley, pursuing 
  - Political Computer Science @ Berkeley
  
  
- 
- 
- 
- ### Contact
- I would love to hear from you at megha_dhingra@berkeley.edu
+### Contact
+I would love to hear from you at megha_dhingra@berkeley.edu
 
 
